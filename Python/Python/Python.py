@@ -70,4 +70,22 @@ for i in range(len(d)):
 #print ("zrobimy sobie odstep")
 #print (element) #element ten nie istneije dla tego miejsca
 
-print (len([851, 1, 58]))
+#print (len([851, 1, 58]))
+
+#x=0
+#while x<5:
+#    print ("zmienna x wynosi ", x)
+#    x+=1 Pętla warunkowa przykład z C FOR(int x, x<5, x++)
+
+
+#x=[1,2,3,4,5]
+#while x:
+#    y=x.pop()
+#    print ("ostatnia wartości z listy x to ", y)
+#else:
+#    print ("koniec")
+
+def f(x):
+    return (2 * (x**3))/8.51
+ 
+print (f(5))
