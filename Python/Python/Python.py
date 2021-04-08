@@ -85,7 +85,32 @@ for i in range(len(d)):
 #else:
 #    print ("koniec")
 
-def f(x):
-    return (2 * (x**3))/8.51
+#def f(x):
+#    return (2 * (x**3))/8.51 Pierwsza funcka
  
-print (f(5))
+#print (f(5))  Wywołanie funkcji
+
+#def funkcja():
+#    print ("wykonalo sie")
+
+#def f(x=0):
+#    return (2 * (x**3))/8.51
+ 
+#print (f()) Funcka z predefiniowana wartością =0
+#print (f(5))   Funckja z definiowaną wartościa
+
+#def policz(jak, liczba1, liczba2):
+#    return jak(liczba1, liczba2)
+ 
+#def dodaj(x, y):
+#    return x+y
+ 
+#def podnies_do_potegi(x, y):
+#    return x**y
+ 
+#def pomnoz(x, y):
+#    return x*y
+ 
+#def podziel(x, y):
+#    return x/y
+
